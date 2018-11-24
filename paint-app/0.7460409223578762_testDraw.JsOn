@@ -1,0 +1,13 @@
+{"ShapeArray" :
+[
+{ "className" : "class eg.edu.alexu.csd.oop.draw.RoundRectangle",
+"Length" : "0.0",
+"ArcWidth" : "0.0",
+"ArcLength" : "0.0",
+"Width" : "0.0"
+},
+{ "className" : "class eg.edu.alexu.csd.oop.test.DummyShape",
+"properties" : "null"
+}
+]
+}
